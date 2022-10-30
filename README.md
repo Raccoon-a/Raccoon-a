@@ -28,4 +28,4 @@ Yuque: https://www.yuque.com/rlyanpro?tab=books
 
 blog: https://renccoon-a.github.io/
 
-<img src="https://cdn.nlark.com/yuque/0/2021/png/25742563/1640786918942-ff262ac7-a028-41ab-81b9-c5044f7fb940.png?x-oss-process=image%2Fresize%2Cw_1123%2Climit_0" width=50%>
+<img src="https://github.com/Raccoon-a/Raccoon-a/blob/main/feynman.png" width=80%>
