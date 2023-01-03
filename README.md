@@ -26,6 +26,6 @@ Currently a novice and working towards becoming an engineer
 
 Yuque: https://www.yuque.com/rlyanpro?tab=books
 
-blog: https://renccoon-a.github.io/
+blog: https://raccoon-a.github.io/
 
 <img src="https://github.com/Raccoon-a/Raccoon-a/blob/main/feynman.png" width=80%>
